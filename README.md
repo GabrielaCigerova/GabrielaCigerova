@@ -6,6 +6,10 @@
 
 **Ici**, je partage mes projets de développement, mêlant créativité et technique. Passionnée par le front-end et le mobile, j'aime créer des interfaces simples et agréables à utiliser. Toujours curieuse, j'explore de nouvelles technologies pour m'améliorer au quotidien.
 
+## À propos de moi
+                                                                                                                              
+🇫🇷 Je viens du cœur de l'Europe, du centre de la Slovaquie. J'ai déménagé en France par amour (aaaw❤️). Mais j'ai trouvé ici un moyen de réaliser enfin mes rêves et c'est de devenir développeur. Grâce au Campus Numérique des Alpes à Grenoble, j'ai appris de nombreux langages de programmation, mais j'espère ne pas m'arrêter là. Pendant mon temps libre, j'aime explorer d'autres langages de programmation, mais je m'intéresse également aux pratiques durables de développement de logiciels. 
+
 ---
 
 # Hello, 
@@ -13,12 +17,6 @@
 🇬🇧 My name is Gabriela, a developer passionate about front-end and mobile development. I love combining design and code to create intuitive user experiences. With a solid background in various programming languages, I am always looking for new challenges to learn and improve my skills.
 
 **Here**, I share my development projects, blending creativity and technical expertise. Passionate about front-end and mobile, I enjoy creating simple and pleasant-to-use interfaces. Always curious, I explore new technologies to improve myself every day.
-
-## À propos de moi
-                                                                                                                              
-🇫🇷 Je viens du cœur de l'Europe, du centre de la Slovaquie. J'ai déménagé en France par amour (aaaw❤️). Mais j'ai trouvé ici un moyen de réaliser enfin mes rêves et c'est de devenir développeur. Grâce au Campus Numérique des Alpes à Grenoble, j'ai appris de nombreux langages de programmation, mais j'espère ne pas m'arrêter là. Pendant mon temps libre, j'aime explorer d'autres langages de programmation, mais je m'intéresse également aux pratiques durables de développement de logiciels. 
-
----
 
 ## About me
 
