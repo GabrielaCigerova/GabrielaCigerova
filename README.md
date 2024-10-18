@@ -1,4 +1,5 @@
-![headline](https://github.com/user-attachments/assets/d5c716e7-9b5e-4a5f-9ebe-64ea346dce7f)
+![header](https://github.com/user-attachments/assets/9a133b82-1d9a-4612-a69f-a3e407ac4649)
+
 
 # Bonjour, 
 Je m'appelle **Gabriela**, développeuse passionnée par le front-end et le développement mobile. J'aime combiner design et code pour créer des expériences utilisateur intuitives. Avec une formation solide en plusieurs langages de programmation, je suis toujours en quête de nouveaux défis pour apprendre et améliorer mes compétences. 
@@ -57,7 +58,8 @@ Trouvez votre fournisseur de spiruline dans ce projet de SPA (VueJS). 💚
 
 et bien plus encore dans mes repos... 
 
-![kt__1_-removebg-preview (1)](https://github.com/user-attachments/assets/5c1f281c-3230-4f9e-ae9d-b677cbcc14ca)
+![Footer](https://github.com/user-attachments/assets/032e9908-8ab2-4aff-b1bb-094f2feb2625)
+
 
 
 
