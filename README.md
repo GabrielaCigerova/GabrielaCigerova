@@ -1,20 +1,26 @@
 ![header](https://github.com/user-attachments/assets/9a133b82-1d9a-4612-a69f-a3e407ac4649)
 
 
-# Bonjour & Hello, 
+# Bonjour, 
 🇫🇷 Je m'appelle **Gabriela**, développeuse passionnée par le front-end et le développement mobile. J'aime combiner design et code pour créer des expériences utilisateur intuitives. Avec une formation solide en plusieurs langages de programmation, je suis toujours en quête de nouveaux défis pour apprendre et améliorer mes compétences. 
 
 **Ici**, je partage mes projets de développement, mêlant créativité et technique. Passionnée par le front-end et le mobile, j'aime créer des interfaces simples et agréables à utiliser. Toujours curieuse, j'explore de nouvelles technologies pour m'améliorer au quotidien.
 
 ---
 
+# Hello, 
+
 🇬🇧 My name is Gabriela, a developer passionate about front-end and mobile development. I love combining design and code to create intuitive user experiences. With a solid background in various programming languages, I am always looking for new challenges to learn and improve my skills.
 
 **Here**, I share my development projects, blending creativity and technical expertise. Passionate about front-end and mobile, I enjoy creating simple and pleasant-to-use interfaces. Always curious, I explore new technologies to improve myself every day.
 
-## À propos de moi & About me
+## À propos de moi
                                                                                                                               
 🇫🇷 Je viens du cœur de l'Europe, du centre de la Slovaquie. J'ai déménagé en France par amour (aaaw❤️). Mais j'ai trouvé ici un moyen de réaliser enfin mes rêves et c'est de devenir développeur. Grâce au Campus Numérique des Alpes à Grenoble, j'ai appris de nombreux langages de programmation, mais j'espère ne pas m'arrêter là. Pendant mon temps libre, j'aime explorer d'autres langages de programmation, mais je m'intéresse également aux pratiques durables de développement de logiciels. 
+
+---
+
+## About me
 
 🇬🇧 I come from the heart of Europe, the center of Slovakia. I moved to France for love (aaaw❤️). But here, I found a way to finally achieve my dreams of becoming a developer. Thanks to the Campus Numérique in the Alps in Grenoble, I have learned many programming languages, but I hope not to stop there. In my free time, I like exploring other programming languages, and I am also interested in sustainable software development practices.
 
