@@ -47,6 +47,16 @@ Si vous avez des recommandations, des questions, ou si vous souhaitez en savoir 
 
 ↑↑↑
 
+## Découvrez quelques-uns de mes projets récents :
+
+Jouez à un jeu de style D&D dans votre terminal.🐉⚔️
+[Dungeons and Dragons in Java](https://github.com/GabrielaCigerova/dungeons_and_dragon_java_edition) 
+
+Trouvez votre fournisseur de spiruline dans ce projet de SPA (VueJS). 💚
+[Spirulina suppliers project](https://github.com/GabrielaCigerova/pwa_vue_spirulina_suppliers)
+
+et bien plus encore dans mes repos... 
+
 ![kt__1_-removebg-preview (1)](https://github.com/user-attachments/assets/5c1f281c-3230-4f9e-ae9d-b677cbcc14ca)
 
 
