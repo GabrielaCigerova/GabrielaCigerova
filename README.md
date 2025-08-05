@@ -44,13 +44,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 🇫🇷 Jusqu'à la fin de ma formation, il est prévu d'en apprendre d'autres : 
 🇬🇧 By the end of my training, I plan to learn more:
 
-![Angular](https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angular&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 
@@ -61,7 +61,7 @@ Si vous avez des recommandations, des questions, ou si vous souhaitez en savoir 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielacigerova/) 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-5B81B1?style=flat-square&logo=protonmail&logoColor=white)](mailto:gabrielacigerova@proton.me) 
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/yourprofile](https://www.instagram.com/GabrielaCiger/))
+
 
 ↑↑↑
 
